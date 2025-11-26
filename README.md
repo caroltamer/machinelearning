@@ -1,10 +1,11 @@
 # Healthcare Provider Fraud Detection Project
 
-## Team Members
-- Carol Tamer
-- Salma gouda 
-- Salma elhossiny
-- Farah sherif
+
+**Team Contributions:**
+- **Carol**: Data exploration and feature engineering (Notebook 1)
+- **Salma G**: Model implementation and training (Notebook 2) 
+- **Salma E**: Model evaluation and analysis (Notebook 3)
+- **Farah**: Technical documentation and project coordination
 
 ## Project Overview
 Machine learning project to detect fraudulent healthcare providers for Medicare using the Healthcare Provider Fraud Detection dataset.
