@@ -14,10 +14,35 @@ Machine learning project to detect fraudulent healthcare providers for Medicare 
 - `notebooks/`: Jupyter/Colab notebooks for analysis
 - `reports/`: Technical report and presentation
 
+## 📊 Current Progress
+
+### ✅ **Notebook 1 Completed - Data Exploration & Feature Engineering**
+
+**Key Accomplishments:**
+- **Data Loading & Quality Checks** - Successfully loaded 4 healthcare datasets
+- **Target Analysis** - Explored fraud vs non-fraud distribution (imbalanced dataset)
+- **Feature Engineering** - Created comprehensive provider-level features:
+  - Claims volume and inpatient/outpatient ratios
+  - Financial metrics (total reimbursement, average claim amounts)
+  - Patient demographics (average age, chronic conditions)
+  - Physician utilization patterns
+- **Final Dataset** - Built processed dataset with 14 features ready for modeling
+
+**Files Created:**
+- `01_data_exploration_and_feature_engineering.ipynb` - Complete analysis notebook
+- `final_provider_dataset.csv` - Processed dataset for modeling
+
+## 🚀 Next Steps
+- **Notebook 2** - Model Training & Evaluation
+  - Load processed dataset
+  - Train machine learning models (Random Forest, XGBoost, etc.)
+  - Evaluate performance metrics
+  - Feature importance analysis
+
 ## Setup
 1. Clone this repository: `git clone https://github.com/caroltamer/machine-learning.git`
 2. Download dataset from Kaggle and place in `data/` folder
 3. Open notebooks in Google Colab or Jupyter
 
 ## Results
-*Will be updated after project completion*
+*Will be updated after model training and evaluation*
