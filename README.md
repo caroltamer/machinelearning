@@ -18,6 +18,8 @@ Machine learning project to detect fraudulent healthcare providers for Medicare 
 ## 📊 Current Progress
 
 ### ✅ **Notebook 1 Completed - Data Exploration & Feature Engineering**
+### ✅ **Notebook 2 Completed** - Model Training  
+### ✅ **Notebook 3 Completed** - Model Evaluation & Business Impact
 
 **Key Accomplishments:**
 - **Data Loading & Quality Checks** - Successfully loaded 4 healthcare datasets
@@ -45,5 +47,22 @@ Machine learning project to detect fraudulent healthcare providers for Medicare 
 2. Download dataset from Kaggle and place in `data/` folder
 3. Open notebooks in Google Colab or Jupyter
 
-## Results
+**Final Results:**
 *Will be updated after model training and evaluation*
+- **Best Model**: [Add which model performed best - e.g., Random Forest]
+- **Fraud Detection Rate**: 85.1% (86 out of 101 fraudulent providers detected)
+- **Key Metrics**:
+  - PR-AUC: [Add value]
+  - ROC-AUC: [Add value]
+  - Precision (Fraud): [Add value]
+  - Recall (Fraud): [Add value]
+ 
+- **Business Impact:**
+- Reduced manual investigation burden through intelligent prioritization
+- Cost savings through targeted fraud detection
+- Actionable insights for fraud investigators
+
+
+
+## 🚀 Project Complete
+All three notebooks successfully executed end-to-end fraud detection pipeline.
